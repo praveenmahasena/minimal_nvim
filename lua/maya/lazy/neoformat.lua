@@ -59,5 +59,7 @@ return{
         vim.g.prettier_config_html_whitespace_sensitivity = 'css'
 
         vim.g.prettier_config_require_pragma = 'false'
+
+
     end
 }
